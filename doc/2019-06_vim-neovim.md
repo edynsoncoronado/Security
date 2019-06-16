@@ -74,6 +74,7 @@ or want to ensure your security with this issue, add these lines to your vimrc:
 ```
 set modelines=0
 set nomodeline
+```
 
 Found vimrc:
 
